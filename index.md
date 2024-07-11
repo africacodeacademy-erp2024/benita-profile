@@ -1,35 +1,39 @@
 # My Personal Bio
 
 ## About Me
-Hello! My name is [Your Name]. I am a participant in the Africa Code Academy Engineering Residency Program 2024.
+Hello! My name is Benita Kazadi. I am a participant in the Africa Code Academy Engineering Residency Program 2024.
 
 ## Background
-- **Name:** [Your Full Name]
-- **Location:** [Your Location]
-- **Education:** [Your Education Background]
-- **Skills:** [List of Skills]
+- **Name:** Benita Miandabo Kazadi
+- **Location:** Gaborone
+- **Education:** Hillcrest Primary School(2008-2015); Legae Academy(2016-2020); Botho University(2021-Present);
+- **Skills:**  HTML and CSS
+    * Javscript
+    * C#
+    * Java
+    * C++
 
 ## Journey
 ### Early Life
-[Describe your early life and how you got interested in software development.]
+I was born and raised in Botswana but originally from DRC .i was interested in software development because of my father. he build websites during his pass time as well as show how they work.
 
 ### Education and Career
-[Describe your education journey and any relevant work experience.]
+Hillcrest Primary School(2008-2015); Legae Academy(2016-2020); Botho University(2021-Present);
 
 ### Goals
-[Outline your goals for the future and what you hope to achieve through this program.]
+I hope to be able to learn quickly in order to improve on my coding skills as well as be able to start my own bussiness a few years after i finish x=school
 
 ## Projects
 ### Project 1
-[Description of the first project]
+An apartment management system. A desktop applicatiion used to manage and keep details safely as well as tenants being able to launch complaints view announcements and make payments. this was done using java.(school)
 
 ### Project 2
-[Description of the second project]
+An e-commerce website used to sell clothing. customers are able to order, pay using credit card as well as update their profile. this was also done using java, html css and javavascript(personal)
 
 ## Contact
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
+- **Email:** benita.kazadi@afriacacode.academy
+- **LinkedIn:** benita kazadi
+- **GitHub:** BKSoftwares21
 
 ---
 
