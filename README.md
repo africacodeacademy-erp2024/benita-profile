@@ -1,37 +1,5 @@
-# Personal Bio Page Template
-
-This repository is a template for creating a personal profile page hosted on GitHub Pages. Fork this repository, customize the content, and enable GitHub Pages to showcase your skills and projects.
-
-## How to Use
-
-1. Fork this repository.
-2. Edit the Markdown files to add your personal information.
-3. Commit and push your changes.
-4. Enable GitHub Pages in the repository settings.
-5. Access your profile page at `https://africacodeacademy-erp2024.github.io/<your-repo>/`.
-
-## Files Included
-
-- `index.md`: The main landing page for your profile.
-- `about.md`: A page to write about yourself.
-- `skills.md`: A page to list your skills.
-- `projects/`: A directory to add your project descriptions.
-- `contact.md`: A page with your contact information.
-- `_config.yml`: Configuration file for Jekyll themes.
-
-## Enable GitHub Pages
-1. Go to your repository settings on GitHub.
-1. Scroll down to the GitHub Pages section.
-1. Select main branch as the source.
-1. Save the settings.
-1. Your bio page will be available at `https://africacodeacademy-erp2024.github.io/<your-repo/`.
-
-## Markdown Syntax Overview
-- Headers: `# Header 1`, `## Header 2`, `### Header 3`, etc.
-- Bold: `**bold text**`
-- Italic: `*italicized text*`
-- Lists:
-  - Unordered: `- Item 1`
-  - Ordered:   `1. Item 1`
-- Links: `[title](https://www.example.com)`
-- Images: `![alt text](image.jpg)`
+Hello My Name is Benita Kazadi, I am 21 years old and an interesting fact about me is that i can eat peanuts but i hate peanut butter with an absolute passion
+ I grew up in Botswana but i am originally from DRC. I grew up in a family consisting of my father, mother, oldesister and two younger brothers who have shaped me to be the person i am today.
+My educational background: Hillcrest Primary School(2008-2015); Legae Academy(2016-2020); Botho University(2021-Present)
+i am proud that i managed to finish school without repeating any grades and studying a course that may be dificult sometimes but still love. Apart from coding i like to knit, i see myself as a novice when it comes tho this but like coding i want to learn and improve on it
+With this course i hope to learn how to learn and also hope to be able to improve on my  coding skills which my fellow coursemates can also agree on as well as improve my presentation skills which i hope to improve on as i have anxiety when it comes to public speaking.
