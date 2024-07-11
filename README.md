@@ -1,4 +1,4 @@
-Hello My Name is Benita Kazadi, I am 21 years old and an interesting fact about me is that i can eat peanuts but i hate peanut butter with an absolute passion
+Hello! My Name is Benita Kazadi, I am 21 years old and an interesting fact about me is that i can eat peanuts but i hate peanut butter with an absolute passion
  I grew up in Botswana but i am originally from DRC. I grew up in a family consisting of my father, mother, oldesister and two younger brothers who have shaped me to be the person i am today.
 My educational background: Hillcrest Primary School(2008-2015); Legae Academy(2016-2020); Botho University(2021-Present)
 i am proud that i managed to finish school without repeating any grades and studying a course that may be dificult sometimes but still love. Apart from coding i like to knit, i see myself as a novice when it comes tho this but like coding i want to learn and improve on it
