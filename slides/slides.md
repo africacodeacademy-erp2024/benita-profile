@@ -21,6 +21,9 @@ I am 21 years old. I grew up in Gaborone raised by my parents who work as doctor
 
 ---
 # My Goals 
+I want to be a successful software engineer and work for a company that will allow me to grow and learn new things along the way
+
+I want to be able to start my own bussiness after a few years after school
 
 
 ---
