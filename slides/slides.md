@@ -1,9 +1,7 @@
 ---
 title: Personal Bio
 marp: true
-theme: uncover
-background: 
-
+theme: gaia
 ---
 # An Insiders Guide to Benita Kazadi
 
@@ -13,6 +11,7 @@ by [@BenitaKazadi](https://github.com/BKSoftwares21)
 # All about me
 
 I am a 21 year old born and raised in Botswana but originally from DRC. 
+I am a student a Botho University in my 4th t
 
 ---
 # My Background
@@ -28,6 +27,7 @@ I want to be able to start my own bussiness after a few years after school
 
 ---
 # Experience Map
+
 
 ---
 # THANK YOU FOR LISTENING

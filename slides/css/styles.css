@@ -1,0 +1,30 @@
+.slide {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(to right, white, pink, purple);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+.slide h1, .slide h2, .slide p {
+  margin: 0;
+}
+
+h1 {
+  font-size: 4em;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+/*# sourceMappingURL=styles.css.map */
