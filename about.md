@@ -1,6 +1,6 @@
 # About Me
 
-I am 21 years old. I grew up in Gaborone raised by my parents who work as doctors and grew up beside my older sister and 2 younger brothers.Growing up i only had a few friends growing
+I am 21 years old. I grew up in Gaborone raised by my parents who work as doctors and grew up beside my older sister and 2 younger brothers.Growing up i only had a few friends due to the fact that i was extremely shy as a kid.
 
 ## Early Life
 
